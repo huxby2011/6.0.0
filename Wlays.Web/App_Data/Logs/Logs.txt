@@ -1,0 +1,503 @@
+DEBUG 2021-01-19 18:00:39,106 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-19 18:00:39,115 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-19 18:00:39,120 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,122 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:39,124 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-19 18:00:39,388 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-19 18:00:40,585 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-19 18:00:40,685 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-19 18:00:40,725 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-19 18:00:40,726 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-19 18:00:40,835 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 15:29:16,777 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 15:29:16,814 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 15:29:16,818 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,819 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:16,823 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 15:29:17,200 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 15:29:19,122 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 15:29:19,236 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 15:29:19,271 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 15:29:19,286 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 15:29:19,428 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:14:06,193 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:14:06,202 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:14:06,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,208 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,209 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,209 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,209 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,209 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:06,211 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:14:06,512 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:14:07,971 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:14:08,079 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:14:08,114 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:14:08,115 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:14:08,256 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:20:49,755 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:20:49,766 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:20:49,770 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,772 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:49,775 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:20:50,071 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:20:51,504 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:20:51,605 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:20:51,638 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:20:51,639 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:20:51,783 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:22:39,363 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:22:39,373 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:22:39,378 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,379 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,379 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,380 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:39,383 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:22:39,683 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:22:41,145 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:22:41,248 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:22:41,282 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:22:41,283 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:22:41,434 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:35:55,397 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:35:55,408 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:35:55,412 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:55,417 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:35:55,719 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:35:57,146 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:35:57,249 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:35:57,285 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:35:57,286 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:35:57,433 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:38:17,915 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:38:17,925 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:38:17,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:17,934 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:38:18,233 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:38:19,661 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:38:19,763 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:38:19,797 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:38:19,798 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:38:19,942 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:40:27,867 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:40:27,877 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:40:27,881 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:27,886 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:40:28,144 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:40:29,253 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:40:29,351 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:40:29,383 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:40:29,384 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:40:29,492 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:43:23,119 [9    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-01-22 16:43:23,120 [9    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:43:23,121 [9    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:43:23,121 [9    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2021-01-22 16:43:24,937 [18   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:43:24,946 [18   ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:43:24,951 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,952 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,952 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,952 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,952 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,952 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,953 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:24,955 [18   ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:43:25,200 [18   ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:43:25,976 [18   ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:43:26,011 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:43:26,042 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:43:26,043 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:43:26,145 [18   ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:48:05,349 [20   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-01-22 16:48:05,350 [20   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:48:05,351 [20   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 16:48:05,351 [20   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2021-01-22 16:48:15,033 [18   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 16:48:15,042 [18   ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 16:48:15,046 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,047 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,047 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,048 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:15,050 [18   ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 16:48:15,286 [18   ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 16:48:16,011 [18   ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 16:48:16,044 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 16:48:16,076 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 16:48:16,077 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 16:48:16,176 [18   ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:12,650 [7    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-01-22 17:02:12,651 [7    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:12,652 [7    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:12,652 [7    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2021-01-22 17:02:14,442 [18   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:02:14,451 [18   ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:02:14,455 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,456 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,456 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,456 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,456 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,457 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:14,459 [18   ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:02:14,705 [18   ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:15,431 [18   ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:02:15,464 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:02:15,495 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:02:15,496 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:02:15,595 [18   ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:41,614 [14   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-01-22 17:02:41,615 [14   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:41,615 [14   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:02:41,615 [14   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2021-01-22 17:02:43,493 [18   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:02:43,502 [18   ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:02:43,506 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,508 [18   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:43,511 [18   ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:02:43,755 [18   ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:02:44,498 [18   ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:02:44,531 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:02:44,563 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:02:44,564 [18   ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:02:44,664 [18   ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:03:44,127 [35   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-01-22 17:03:44,128 [35   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:03:44,128 [35   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:03:44,128 [35   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2021-01-22 17:27:58,928 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:27:58,939 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:27:58,943 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,945 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,946 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:27:58,948 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:27:59,243 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:00,679 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:28:00,780 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:28:00,814 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:28:00,821 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:28:00,972 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:28:39,486 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:28:39,496 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:28:39,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,502 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:39,505 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:28:39,815 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:28:41,244 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:28:41,345 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:28:41,379 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:28:41,381 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:28:41,528 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:32:05,800 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:32:05,810 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:32:05,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:05,819 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:32:06,132 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:32:07,568 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:32:07,669 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:32:07,704 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:32:07,706 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:32:07,851 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+ERROR 2021-01-22 17:32:14,922 [8    ] Wlays.Web.Controllers.ChannelController  - Abp.ObjectMapping.IObjectMapper should be implemented in order to map objects.
+Abp.AbpException: Abp.ObjectMapping.IObjectMapper should be implemented in order to map objects.
+   在 Abp.ObjectMapping.NullObjectMapper.Map[TDestination](Object source)
+   在 Wlays.Channels.ChannelService.<InsertChannel>d__3.MoveNext() 位置 F:\资料\Hux.Project\Wlays\6.0.0\src\Wlays.Application\Channels\ChannelService.cs:行号 30
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Domain.Uow.UnitOfWorkInterceptor.<InternalInterceptAsynchronous>d__5`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Auditing.AuditingInterceptor.<InternalInterceptAsynchronous>d__6`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Runtime.Validation.Interception.ValidationInterceptor.<InternalInterceptAsynchronous>d__4`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wlays.Web.Controllers.ChannelController.<Index>d__2.MoveNext() 位置 F:\资料\Hux.Project\Wlays\6.0.0\src\Wlays.Web\Controllers\ChannelController.cs:行号 28
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_0.<InvokeActionMethodFilterAsynchronouslyRecursive>b__0()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+DEBUG 2021-01-22 17:39:41,353 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:39:41,363 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:39:41,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:41,373 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:39:41,674 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:39:43,136 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:39:43,237 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:39:43,281 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:39:43,282 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:39:43,436 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+ERROR 2021-01-22 17:40:03,676 [6    ] Wlays.Web.Controllers.ChannelController  - 未实现该方法或操作。
+System.NotImplementedException: 未实现该方法或操作。
+   在 Wlays.Channels.Channel.get_CreationTime() 位置 F:\资料\Hux.Project\Wlays\6.0.0\src\Wlays.Core\Channels\Channel.cs:行号 31
+   在 Abp.Domain.Entities.Auditing.EntityAuditingHelper.SetCreationAuditProperties(IMultiTenancyConfig multiTenancyConfig, Object entityAsObj, Nullable`1 tenantId, Nullable`1 userId)
+   在 Abp.EntityFramework.AbpDbContext.SetCreationAuditProperties(Object entityAsObj, Nullable`1 userId)
+   在 Abp.EntityFramework.AbpDbContext.ObjectStateManager_ObjectStateManagerChanged(Object sender, CollectionChangeEventArgs e)
+   在 System.Data.Entity.Core.Objects.ObjectStateManager.OnObjectStateManagerChanged(CollectionChangeAction action, Object entity)
+   在 System.Data.Entity.Core.Objects.ObjectStateManager.AddEntry(IEntityWrapper wrappedObject, EntityKey passedKey, EntitySet entitySet, String argumentName, Boolean isAdded)
+   在 System.Data.Entity.Core.Objects.ObjectContext.AddSingleObject(EntitySet entitySet, IEntityWrapper wrappedEntity, String argumentName)
+   在 System.Data.Entity.Core.Objects.ObjectContext.AddObject(String entitySetName, Object entity)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass17_0.<Add>b__0()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Add(Object entity)
+   在 System.Data.Entity.DbSet`1.Add(TEntity entity)
+   在 Abp.EntityFramework.Repositories.EfRepositoryBase`3.InsertAsync(TEntity entity)
+   在 Abp.Domain.Repositories.AbpRepositoryBase`2.<InsertOrUpdateAsync>d__39.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.EntityFramework.Repositories.EfRepositoryBase`3.<InsertOrUpdateAndGetIdAsync>d__26.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Domain.Uow.UnitOfWorkInterceptor.<InternalInterceptAsynchronous>d__5`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wlays.Channels.ChannelService.<InsertChannel>d__3.MoveNext() 位置 F:\资料\Hux.Project\Wlays\6.0.0\src\Wlays.Application\Channels\ChannelService.cs:行号 37
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Domain.Uow.UnitOfWorkInterceptor.<InternalInterceptAsynchronous>d__5`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Auditing.AuditingInterceptor.<InternalInterceptAsynchronous>d__6`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Abp.Runtime.Validation.Interception.ValidationInterceptor.<InternalInterceptAsynchronous>d__4`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wlays.Web.Controllers.ChannelController.<Index>d__2.MoveNext() 位置 F:\资料\Hux.Project\Wlays\6.0.0\src\Wlays.Web\Controllers\ChannelController.cs:行号 28
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_0.<InvokeActionMethodFilterAsynchronouslyRecursive>b__0()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+DEBUG 2021-01-22 17:42:23,577 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:42:23,588 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:42:23,593 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,594 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,595 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:23,598 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:42:23,896 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:42:25,312 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:42:25,412 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:42:25,446 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:42:25,447 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:42:25,590 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-01-22 17:43:16,512 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-01-22 17:43:16,523 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2021-01-22 17:43:16,528 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.Web.WlaysWebModule, Wlays.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,529 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,529 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,529 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,529 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysDataModule, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysCoreModule, Wlays.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysApplicationModule, Wlays.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wlays.WlaysWebApiModule, Wlays.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:16,533 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2021-01-22 17:43:16,831 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Wlays.EntityFramework.WlaysDbContext, Wlays.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-01-22 17:43:18,261 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2021-01-22 17:43:18,363 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-01-22 17:43:18,397 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-01-22 17:43:18,398 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wlays
+DEBUG 2021-01-22 17:43:18,542 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
